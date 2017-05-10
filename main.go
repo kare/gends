@@ -10,7 +10,6 @@ import (
 )
 
 type ds struct {
-	ShortTypeName string
 	TypeName      string
 	Type          string
 	TypeZeroValue string
